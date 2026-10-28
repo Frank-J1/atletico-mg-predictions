@@ -1,228 +1,228 @@
-Date,HomeTeam,AwayTeam,Score,Status,Competition,Season,HomeGoals,AwayGoals,IsHome,GaloGoals,OppGoals,WinLossDraw,Opponent
-"Mon, Jan 11",Red Bull Bragantino,Atlético-MG,2 - 2,FT,Brazilian Serie A,2020-21,2,2,False,2,2,Draw,Red Bull Bragantino
-"Mon, Nov 2",Palmeiras,Atlético-MG,3 - 0,FT,Brazilian Serie A,2020-21,3,0,False,0,3,Loss,Palmeiras
-"Mon, Oct 19",Bahia,Atlético-MG,3 - 1,FT,Brazilian Serie A,2020-21,3,1,False,1,3,Loss,Bahia
-"Sat, Aug 22",Internacional,Atlético-MG,1 - 0,FT,Brazilian Serie A,2020-21,1,0,False,0,1,Loss,Internacional
-"Sat, Dec 12",Athletico Paranaense,Atlético-MG,0 - 1,FT,Brazilian Serie A,2020-21,0,1,False,1,0,Win,Athletico Paranaense
-"Sat, Dec 26",Atlético-MG,Coritiba,2 - 0,FT,Brazilian Serie A,2020-21,2,0,True,2,0,Win,Coritiba
-"Sat, Feb 13",Atlético-MG,Bahia,1 - 1,FT,Brazilian Serie A,2020-21,1,1,True,1,1,Draw,Bahia
-"Sat, Jan 23",Vasco da Gama,Atlético-MG,3 - 2,FT,Brazilian Serie A,2020-21,3,2,False,2,3,Loss,Vasco da Gama
-"Sat, Nov 14",Corinthians,Atlético-MG,1 - 2,FT,Brazilian Serie A,2020-21,1,2,False,2,1,Win,Corinthians
-"Sat, Oct 10",Atlético-MG,Goiás,3 - 0,FT,Brazilian Serie A,2020-21,3,0,True,3,0,Win,Goiás
-"Sat, Oct 24",Atlético-MG,Sport,0 - 0,FT,Brazilian Serie A,2020-21,0,0,True,0,0,Draw,Sport
-"Sat, Sep 19",Atlético Goianiense,Atlético-MG,3 - 4,FT,Brazilian Serie A,2020-21,3,4,False,4,3,Win,Atlético Goianiense
-"Sat, Sep 26",Atlético-MG,Grêmio,3 - 1,FT,Brazilian Serie A,2020-21,3,1,True,3,1,Win,Grêmio
-"Sun, Aug 16",Atlético-MG,Ceará,2 - 0,FT,Brazilian Serie A,2020-21,2,0,True,2,0,Win,Ceará
-"Sun, Aug 9",Flamengo,Atlético-MG,0 - 1,FT,Brazilian Serie A,2020-21,0,1,False,1,0,Win,Flamengo
-"Sun, Dec 6",Atlético-MG,Internacional,2 - 2,FT,Brazilian Serie A,2020-21,2,2,True,2,2,Draw,Internacional
-"Sun, Feb 21",Sport,Atlético-MG,2 - 3,FT,Brazilian Serie A,2020-21,2,3,False,3,2,Win,Sport
-"Sun, Jan 17",Atlético-MG,Atlético Goianiense,3 - 1,FT,Brazilian Serie A,2020-21,3,1,True,3,1,Win,Atlético Goianiense
-"Sun, Jan 31",Atlético-MG,Fortaleza,2 - 0,FT,Brazilian Serie A,2020-21,2,0,True,2,0,Win,Fortaleza
-"Sun, Nov 22",Ceará,Atlético-MG,2 - 2,FT,Brazilian Serie A,2020-21,2,2,False,2,2,Draw,Ceará
-"Sun, Nov 8",Atlético-MG,Flamengo,4 - 0,FT,Brazilian Serie A,2020-21,4,0,True,4,0,Win,Flamengo
-"Sun, Oct 4",Atlético-MG,Vasco da Gama,4 - 1,FT,Brazilian Serie A,2020-21,4,1,True,4,1,Win,Vasco da Gama
-"Sun, Sep 13",Atlético-MG,Red Bull Bragantino,2 - 1,FT,Brazilian Serie A,2020-21,2,1,True,2,1,Win,Red Bull Bragantino
-"Sun, Sep 6",Coritiba,Atlético-MG,0 - 1,FT,Brazilian Serie A,2020-21,0,1,False,1,0,Win,Coritiba
-"Thu, Feb 25",Atlético-MG,Palmeiras,2 - 0,FT,Brazilian Serie A,2020-21,2,0,True,2,0,Win,Palmeiras
-"Thu, Sep 3",Atlético-MG,São Paulo,3 - 0,FT,Brazilian Serie A,2020-21,3,0,True,3,0,Win,São Paulo
-"Tue, Jan 26",Atlético-MG,Santos,2 - 0,FT,Brazilian Serie A,2020-21,2,0,True,2,0,Win,Santos
-"Wed, Aug 12",Atlético-MG,Corinthians,3 - 2,FT,Brazilian Serie A,2020-21,3,2,True,3,2,Win,Corinthians
-"Wed, Aug 19",Botafogo,Atlético-MG,2 - 1,FT,Brazilian Serie A,2020-21,2,1,False,1,2,Loss,Botafogo
-"Wed, Dec 16",São Paulo,Atlético-MG,3 - 0,FT,Brazilian Serie A,2020-21,3,0,False,0,3,Loss,São Paulo
-"Wed, Feb 10",Fluminense,Atlético-MG,0 - 0,FT,Brazilian Serie A,2020-21,0,0,False,0,0,Draw,Fluminense
-"Wed, Feb 3",Goiás,Atlético-MG,1 - 0,FT,Brazilian Serie A,2020-21,1,0,False,0,1,Loss,Goiás
-"Wed, Jan 20",Grêmio,Atlético-MG,1 - 1,FT,Brazilian Serie A,2020-21,1,1,False,1,1,Draw,Grêmio
-"Wed, Nov 18",Atlético-MG,Athletico Paranaense,0 - 2,FT,Brazilian Serie A,2020-21,0,2,True,0,2,Loss,Athletico Paranaense
-"Wed, Nov 25",Atlético-MG,Botafogo,2 - 1,FT,Brazilian Serie A,2020-21,2,1,True,2,1,Win,Botafogo
-"Wed, Oct 14",Atlético-MG,Fluminense,1 - 1,FT,Brazilian Serie A,2020-21,1,1,True,1,1,Draw,Fluminense
-"Wed, Oct 7",Fortaleza,Atlético-MG,2 - 1,FT,Brazilian Serie A,2020-21,2,1,False,1,2,Loss,Fortaleza
-"Wed, Sep 9",Santos,Atlético-MG,3 - 1,FT,Brazilian Serie A,2020-21,3,1,False,1,3,Loss,Santos
-"Mon, Aug 23",Fluminense,Atlético-MG,1 - 1,FT,Brazilian Serie A,2021-22,1,1,False,1,1,Draw,Fluminense
-"Mon, Jun 21",Atlético-MG,Chapecoense,1 - 1,FT,Brazilian Serie A,2021-22,1,1,True,1,1,Draw,Chapecoense
-"Sat, Aug 14",Atlético-MG,Palmeiras,2 - 0,FT,Brazilian Serie A,2021-22,2,0,True,2,0,Win,Palmeiras
-"Sat, Jul 10",América Mineiro,Atlético-MG,0 - 1,FT,Brazilian Serie A,2021-22,0,1,False,1,0,Win,América Mineiro
-"Sat, Jul 17",Corinthians,Atlético-MG,1 - 2,FT,Brazilian Serie A,2021-22,1,2,False,2,1,Win,Corinthians
-"Sat, Nov 20",Atlético-MG,Juventude,2 - 0,FT,Brazilian Serie A,2021-22,2,0,True,2,0,Win,Juventude
-"Sat, Oct 2",Atlético-MG,Internacional,1 - 0,FT,Brazilian Serie A,2021-22,1,0,True,1,0,Win,Internacional
-"Sat, Oct 30",Flamengo,Atlético-MG,1 - 0,FT,Brazilian Serie A,2021-22,1,0,False,0,1,Loss,Flamengo
-"Sat, Oct 9",Atlético-MG,Ceará,3 - 1,FT,Brazilian Serie A,2021-22,3,1,True,3,1,Win,Ceará
-"Sat, Sep 18",Atlético-MG,Sport,3 - 0,FT,Brazilian Serie A,2021-22,3,0,True,3,0,Win,Sport
-"Sat, Sep 25",São Paulo,Atlético-MG,0 - 0,FT,Brazilian Serie A,2021-22,0,0,False,0,0,Draw,São Paulo
-"Sun, Aug 1",Atlético-MG,Athletico Paranaense,2 - 0,FT,Brazilian Serie A,2021-22,2,0,True,2,0,Win,Athletico Paranaense
-"Sun, Aug 29",Red Bull Bragantino,Atlético-MG,1 - 1,FT,Brazilian Serie A,2021-22,1,1,False,1,1,Draw,Red Bull Bragantino
-"Sun, Aug 8",Juventude,Atlético-MG,1 - 2,FT,Brazilian Serie A,2021-22,1,2,False,2,1,Win,Juventude
-"Sun, Dec 5",Atlético-MG,Red Bull Bragantino,4 - 3,FT,Brazilian Serie A,2021-22,4,3,True,4,3,Win,Red Bull Bragantino
-"Sun, Jul 25",Atlético-MG,Bahia,3 - 0,FT,Brazilian Serie A,2021-22,3,0,True,3,0,Win,Bahia
-"Sun, Jul 4",Cuiabá,Atlético-MG,0 - 1,FT,Brazilian Serie A,2021-22,0,1,False,1,0,Win,Cuiabá
-"Sun, Jun 13",Atlético-MG,São Paulo,1 - 0,FT,Brazilian Serie A,2021-22,1,0,True,1,0,Win,São Paulo
-"Sun, Jun 27",Santos,Atlético-MG,2 - 0,FT,Brazilian Serie A,2021-22,2,0,False,0,2,Loss,Santos
-"Sun, Jun 6",Sport,Atlético-MG,0 - 1,FT,Brazilian Serie A,2021-22,0,1,False,1,0,Win,Sport
-"Sun, May 30",Atlético-MG,Fortaleza,1 - 2,FT,Brazilian Serie A,2021-22,1,2,True,1,2,Loss,Fortaleza
-"Sun, Nov 28",Atlético-MG,Fluminense,2 - 1,FT,Brazilian Serie A,2021-22,2,1,True,2,1,Win,Fluminense
-"Sun, Nov 7",Atlético-MG,América Mineiro,1 - 0,FT,Brazilian Serie A,2021-22,1,0,True,1,0,Win,América Mineiro
-"Sun, Oct 17",Atlético Goianiense,Atlético-MG,2 - 1,FT,Brazilian Serie A,2021-22,2,1,False,1,2,Loss,Atlético Goianiense
-"Sun, Oct 24",Atlético-MG,Cuiabá,2 - 1,FT,Brazilian Serie A,2021-22,2,1,True,2,1,Win,Cuiabá
-"Thu, Dec 2",Bahia,Atlético-MG,2 - 3,FT,Brazilian Serie A,2021-22,2,3,False,3,2,Win,Bahia
-"Thu, Dec 9",Grêmio,Atlético-MG,4 - 3,FT,Brazilian Serie A,2021-22,4,3,False,3,4,Loss,Grêmio
-"Thu, Jul 1",Atlético-MG,Atlético Goianiense,4 - 1,FT,Brazilian Serie A,2021-22,4,1,True,4,1,Win,Atlético Goianiense
-"Thu, Jun 24",Ceará,Atlético-MG,2 - 1,FT,Brazilian Serie A,2021-22,2,1,False,1,2,Loss,Ceará
-"Tue, Nov 16",Athletico Paranaense,Atlético-MG,0 - 1,FT,Brazilian Serie A,2021-22,0,1,False,1,0,Win,Athletico Paranaense
-"Tue, Nov 23",Palmeiras,Atlético-MG,2 - 2,FT,Brazilian Serie A,2021-22,2,2,False,2,2,Draw,Palmeiras
-"Wed, Jul 7",Atlético-MG,Flamengo,2 - 1,FT,Brazilian Serie A,2021-22,2,1,True,2,1,Win,Flamengo
-"Wed, Jun 16",Internacional,Atlético-MG,0 - 1,FT,Brazilian Serie A,2021-22,0,1,False,1,0,Win,Internacional
-"Wed, Nov 10",Atlético-MG,Corinthians,3 - 0,FT,Brazilian Serie A,2021-22,3,0,True,3,0,Win,Corinthians
-"Wed, Nov 3",Atlético-MG,Grêmio,2 - 1,FT,Brazilian Serie A,2021-22,2,1,True,2,1,Win,Grêmio
-"Wed, Oct 13",Atlético-MG,Santos,3 - 1,FT,Brazilian Serie A,2021-22,3,1,True,3,1,Win,Santos
-"Wed, Oct 6",Chapecoense,Atlético-MG,2 - 2,FT,Brazilian Serie A,2021-22,2,2,False,2,2,Draw,Chapecoense
-"Mon, Nov 7",Atlético-MG,Botafogo,0 - 2,FT,Brazilian Serie A,2022-23,0,2,True,0,2,Loss,Botafogo
-"Mon, Oct 24",Fortaleza,Atlético-MG,0 - 0,FT,Brazilian Serie A,2022-23,0,0,False,0,0,Draw,Fortaleza
-"Sat, Apr 23",Atlético-MG,Coritiba,2 - 2,FT,Brazilian Serie A,2022-23,2,2,True,2,2,Draw,Coritiba
-"Sat, Apr 30",Goiás,Atlético-MG,2 - 2,FT,Brazilian Serie A,2022-23,2,2,False,2,2,Draw,Goiás
-"Sat, Aug 20",Atlético-MG,Goiás,0 - 1,FT,Brazilian Serie A,2022-23,0,1,True,0,1,Loss,Goiás
-"Sat, Jul 2",Juventude,Atlético-MG,1 - 2,FT,Brazilian Serie A,2022-23,1,2,False,2,1,Win,Juventude
-"Sat, Jun 11",Atlético-MG,Santos,1 - 1,FT,Brazilian Serie A,2022-23,1,1,True,1,1,Draw,Santos
-"Sat, Jun 25",Atlético-MG,Fortaleza,3 - 2,FT,Brazilian Serie A,2022-23,3,2,True,3,2,Win,Fortaleza
-"Sat, May 14",Atlético-MG,Atlético Goianiense,2 - 0,FT,Brazilian Serie A,2022-23,2,0,True,2,0,Win,Atlético Goianiense
-"Sat, May 7",Atlético-MG,América Mineiro,1 - 2,FT,Brazilian Serie A,2022-23,1,2,True,1,2,Loss,América Mineiro
-"Sat, Oct 1",Atlético-MG,Fluminense,2 - 0,FT,Brazilian Serie A,2022-23,2,0,True,2,0,Win,Fluminense
-"Sat, Oct 15",Flamengo,Atlético-MG,1 - 0,FT,Brazilian Serie A,2022-23,1,0,False,0,1,Loss,Flamengo
-"Sat, Sep 17",Avaí,Atlético-MG,1 - 0,FT,Brazilian Serie A,2022-23,1,0,False,0,1,Loss,Avaí
-"Sun, Apr 10",Atlético-MG,Internacional,2 - 0,FT,Brazilian Serie A,2022-23,2,0,True,2,0,Win,Internacional
-"Sun, Apr 17",Athletico Paranaense,Atlético-MG,0 - 1,FT,Brazilian Serie A,2022-23,0,1,False,1,0,Win,Athletico Paranaense
-"Sun, Aug 14",Coritiba,Atlético-MG,0 - 1,FT,Brazilian Serie A,2022-23,0,1,False,1,0,Win,Coritiba
-"Sun, Aug 28",América Mineiro,Atlético-MG,1 - 1,FT,Brazilian Serie A,2022-23,1,1,False,1,1,Draw,América Mineiro
-"Sun, Aug 7",Atlético-MG,Athletico Paranaense,2 - 3,FT,Brazilian Serie A,2022-23,2,3,True,2,3,Loss,Athletico Paranaense
-"Sun, Jul 10",Atlético-MG,São Paulo,0 - 0,FT,Brazilian Serie A,2022-23,0,0,True,0,0,Draw,São Paulo
-"Sun, Jul 17",Botafogo,Atlético-MG,0 - 1,FT,Brazilian Serie A,2022-23,0,1,False,1,0,Win,Botafogo
-"Sun, Jul 24",Atlético-MG,Corinthians,1 - 2,FT,Brazilian Serie A,2022-23,1,2,True,1,2,Loss,Corinthians
-"Sun, Jul 31",Internacional,Atlético-MG,3 - 0,FT,Brazilian Serie A,2022-23,3,0,False,0,3,Loss,Internacional
-"Sun, Jun 19",Atlético-MG,Flamengo,2 - 0,FT,Brazilian Serie A,2022-23,2,0,True,2,0,Win,Flamengo
-"Sun, Jun 5",Palmeiras,Atlético-MG,0 - 0,FT,Brazilian Serie A,2022-23,0,0,False,0,0,Draw,Palmeiras
-"Sun, May 29",Atlético-MG,Avaí,2 - 1,FT,Brazilian Serie A,2022-23,2,1,True,2,1,Win,Avaí
-"Sun, Nov 13",Corinthians,Atlético-MG,0 - 1,FT,Brazilian Serie A,2022-23,0,1,False,1,0,Win,Corinthians
-"Sun, Oct 9",Atlético-MG,Ceará,0 - 0,FT,Brazilian Serie A,2022-23,0,0,True,0,0,Draw,Ceará
-"Sun, Sep 4",Atlético Goianiense,Atlético-MG,0 - 2,FT,Brazilian Serie A,2022-23,0,2,False,2,0,Win,Atlético Goianiense
-"Thu, Jul 21",Cuiabá,Atlético-MG,1 - 1,FT,Brazilian Serie A,2022-23,1,1,False,1,1,Draw,Cuiabá
-"Thu, Nov 10",Atlético-MG,Cuiabá,3 - 0,FT,Brazilian Serie A,2022-23,3,0,True,3,0,Win,Cuiabá
-"Thu, Oct 27",Atlético-MG,Juventude,1 - 0,FT,Brazilian Serie A,2022-23,1,0,True,1,0,Win,Juventude
-"Tue, Nov 1",São Paulo,Atlético-MG,2 - 2,FT,Brazilian Serie A,2022-23,2,2,False,2,2,Draw,São Paulo
-"Wed, Jun 15",Ceará,Atlético-MG,0 - 0,FT,Brazilian Serie A,2022-23,0,0,False,0,0,Draw,Ceará
-"Wed, Jun 8",Fluminense,Atlético-MG,5 - 3,FT,Brazilian Serie A,2022-23,5,3,False,3,5,Loss,Fluminense
-"Wed, May 11",Red Bull Bragantino,Atlético-MG,1 - 1,FT,Brazilian Serie A,2022-23,1,1,False,1,1,Draw,Red Bull Bragantino
-"Wed, Oct 5",Santos,Atlético-MG,1 - 2,FT,Brazilian Serie A,2022-23,1,2,False,2,1,Win,Santos
-"Wed, Sep 28",Atlético-MG,Palmeiras,0 - 1,FT,Brazilian Serie A,2022-23,0,1,True,0,1,Loss,Palmeiras
-"Wed, Sep 7",Atlético-MG,Red Bull Bragantino,1 - 1,FT,Brazilian Serie A,2022-23,1,1,True,1,1,Draw,Red Bull Bragantino
-"Mon, Jul 17",Goiás,Atlético-MG,0 - 0,FT,Brazilian Serie A,2023-24,0,0,False,0,0,Draw,Goiás
-"Sat, Apr 15",Atlético-MG,Vasco da Gama,1 - 2,FT,Brazilian Serie A,2023-24,1,2,True,1,2,Loss,Vasco da Gama
-"Sat, Apr 29",Atlético-MG,Athletico Paranaense,2 - 1,FT,Brazilian Serie A,2023-24,2,1,True,2,1,Win,Athletico Paranaense
-"Sat, Dec 2",Atlético-MG,São Paulo,2 - 1,FT,Brazilian Serie A,2023-24,2,1,True,2,1,Win,São Paulo
-"Sat, Jul 22",Grêmio,Atlético-MG,1 - 0,FT,Brazilian Serie A,2023-24,1,0,False,0,1,Loss,Grêmio
-"Sat, Jul 29",Atlético-MG,Flamengo,1 - 2,FT,Brazilian Serie A,2023-24,1,2,True,1,2,Loss,Flamengo
-"Sat, Jul 8",Atlético-MG,Corinthians,0 - 1,FT,Brazilian Serie A,2023-24,0,1,True,0,1,Loss,Corinthians
-"Sat, Jun 10",Atlético-MG,Red Bull Bragantino,1 - 1,FT,Brazilian Serie A,2023-24,1,1,True,1,1,Draw,Red Bull Bragantino
-"Sat, Jun 24",Fortaleza,Atlético-MG,2 - 1,FT,Brazilian Serie A,2023-24,2,1,False,1,2,Loss,Fortaleza
-"Sat, Jun 3",Cruzeiro,Atlético-MG,0 - 1,FT,Brazilian Serie A,2023-24,0,1,False,1,0,Win,Cruzeiro
-"Sat, May 13",Atlético-MG,Internacional,2 - 0,FT,Brazilian Serie A,2023-24,2,0,True,2,0,Win,Internacional
-"Sat, May 20",Coritiba,Atlético-MG,1 - 2,FT,Brazilian Serie A,2023-24,1,2,False,2,1,Win,Coritiba
-"Sat, Nov 4",América Mineiro,Atlético-MG,1 - 1,FT,Brazilian Serie A,2023-24,1,1,False,1,1,Draw,América Mineiro
-"Sat, Oct 28",Atlético-MG,Fluminense,2 - 0,FT,Brazilian Serie A,2023-24,2,0,True,2,0,Win,Fluminense
-"Sat, Sep 16",Atlético-MG,Botafogo,1 - 0,FT,Brazilian Serie A,2023-24,1,0,True,1,0,Win,Botafogo
-"Sat, Sep 2",Athletico Paranaense,Atlético-MG,1 - 1,FT,Brazilian Serie A,2023-24,1,1,False,1,1,Draw,Athletico Paranaense
-"Sat, Sep 23",Atlético-MG,Cuiabá,1 - 0,FT,Brazilian Serie A,2023-24,1,0,True,1,0,Win,Cuiabá
-"Sat, Sep 30",Internacional,Atlético-MG,0 - 2,FT,Brazilian Serie A,2023-24,0,2,False,2,0,Win,Internacional
-"Sun, Apr 23",Santos,Atlético-MG,0 - 0,FT,Brazilian Serie A,2023-24,0,0,False,0,0,Draw,Santos
-"Sun, Aug 13",Atlético-MG,Bahia,1 - 0,FT,Brazilian Serie A,2023-24,1,0,True,1,0,Win,Bahia
-"Sun, Aug 20",Vasco da Gama,Atlético-MG,1 - 0,FT,Brazilian Serie A,2023-24,1,0,False,0,1,Loss,Vasco da Gama
-"Sun, Aug 27",Atlético-MG,Santos,2 - 0,FT,Brazilian Serie A,2023-24,2,0,True,2,0,Win,Santos
-"Sun, Aug 6",São Paulo,Atlético-MG,0 - 2,FT,Brazilian Serie A,2023-24,0,2,False,2,0,Win,São Paulo
-"Sun, Jul 2",Atlético-MG,América Mineiro,2 - 2,FT,Brazilian Serie A,2023-24,2,2,True,2,2,Draw,América Mineiro
-"Sun, May 28",Atlético-MG,Palmeiras,1 - 1,FT,Brazilian Serie A,2023-24,1,1,True,1,1,Draw,Palmeiras
-"Sun, May 7",Botafogo,Atlético-MG,2 - 0,FT,Brazilian Serie A,2023-24,2,0,False,0,2,Loss,Botafogo
-"Sun, Nov 12",Atlético-MG,Goiás,2 - 1,FT,Brazilian Serie A,2023-24,2,1,True,2,1,Win,Goiás
-"Sun, Nov 26",Atlético-MG,Grêmio,3 - 0,FT,Brazilian Serie A,2023-24,3,0,True,3,0,Win,Grêmio
-"Sun, Oct 22",Atlético-MG,Cruzeiro,0 - 1,FT,Brazilian Serie A,2023-24,0,1,True,0,1,Loss,Cruzeiro
-"Sun, Oct 8",Atlético-MG,Coritiba,1 - 2,FT,Brazilian Serie A,2023-24,1,2,True,1,2,Loss,Coritiba
-"Thu, Nov 9",Corinthians,Atlético-MG,1 - 1,FT,Brazilian Serie A,2023-24,1,1,False,1,1,Draw,Corinthians
-"Thu, Oct 19",Palmeiras,Atlético-MG,0 - 2,FT,Brazilian Serie A,2023-24,0,2,False,2,0,Win,Palmeiras
-"Wed, Dec 6",Bahia,Atlético-MG,4 - 1,FT,Brazilian Serie A,2023-24,4,1,False,1,4,Loss,Bahia
-"Wed, Jun 21",Fluminense,Atlético-MG,1 - 1,FT,Brazilian Serie A,2023-24,1,1,False,1,1,Draw,Fluminense
-"Wed, May 10",Cuiabá,Atlético-MG,0 - 4,FT,Brazilian Serie A,2023-24,0,4,False,4,0,Win,Cuiabá
-"Wed, Nov 1",Atlético-MG,Fortaleza,3 - 1,FT,Brazilian Serie A,2023-24,3,1,True,3,1,Win,Fortaleza
-"Wed, Nov 29",Flamengo,Atlético-MG,0 - 3,FT,Brazilian Serie A,2023-24,0,3,False,3,0,Win,Flamengo
-"Wed, Oct 25",Red Bull Bragantino,Atlético-MG,1 - 2,FT,Brazilian Serie A,2023-24,1,2,False,2,1,Win,Red Bull Bragantino
-"Mon, Jun 17",Atlético-MG,Palmeiras,0 - 4,FT,Brazilian Serie A,2024-25,0,4,True,0,4,Loss,Palmeiras
-"Sat, Apr 20",Atlético-MG,Cruzeiro,3 - 0,FT,Brazilian Serie A,2024-25,3,0,True,3,0,Win,Cruzeiro
-"Sat, Apr 27",Cuiabá,Atlético-MG,0 - 3,FT,Brazilian Serie A,2024-25,0,3,False,3,0,Win,Cuiabá
-"Sat, Aug 10",Cruzeiro,Atlético-MG,0 - 0,FT,Brazilian Serie A,2024-25,0,0,False,0,0,Draw,Cruzeiro
-"Sat, Aug 17",Atlético-MG,Cuiabá,1 - 1,FT,Brazilian Serie A,2024-25,1,1,True,1,1,Draw,Cuiabá
-"Sat, Aug 24",Atlético-MG,Fluminense,0 - 2,FT,Brazilian Serie A,2024-25,0,2,True,0,2,Loss,Fluminense
-"Sat, Aug 3",Criciúma,Atlético-MG,2 - 1,FT,Brazilian Serie A,2024-25,2,1,False,1,2,Loss,Criciúma
-"Sat, May 4",Fluminense,Atlético-MG,2 - 2,FT,Brazilian Serie A,2024-25,2,2,False,2,2,Draw,Fluminense
-"Sat, Nov 16",Athletico Paranaense,Atlético-MG,1 - 0,FT,Brazilian Serie A,2024-25,1,0,False,0,1,Loss,Athletico Paranaense
-"Sat, Nov 23",São Paulo,Atlético-MG,2 - 2,FT,Brazilian Serie A,2024-25,2,2,False,2,2,Draw,São Paulo
-"Sat, Oct 26",Atlético-MG,Internacional,1 - 3,FT,Brazilian Serie A,2024-25,1,3,True,1,3,Loss,Internacional
-"Sat, Oct 5",Atlético-MG,Vitória,2 - 2,FT,Brazilian Serie A,2024-25,2,2,True,2,2,Draw,Vitória
-"Sat, Sep 28",Palmeiras,Atlético-MG,2 - 1,FT,Brazilian Serie A,2024-25,2,1,False,1,2,Loss,Palmeiras
-"Sun, Apr 14",Corinthians,Atlético-MG,0 - 0,FT,Brazilian Serie A,2024-25,0,0,False,0,0,Draw,Corinthians
-"Sun, Dec 8",Atlético-MG,Athletico Paranaense,1 - 0,FT,Brazilian Serie A,2024-25,1,0,True,1,0,Win,Athletico Paranaense
-"Sun, Jul 21",Atlético-MG,Vasco da Gama,2 - 0,FT,Brazilian Serie A,2024-25,2,0,True,2,0,Win,Vasco da Gama
-"Sun, Jul 28",Atlético-MG,Corinthians,2 - 1,FT,Brazilian Serie A,2024-25,2,1,True,2,1,Win,Corinthians
-"Sun, Jul 7",Botafogo,Atlético-MG,3 - 0,FT,Brazilian Serie A,2024-25,3,0,False,0,3,Loss,Botafogo
-"Sun, Jun 2",Atlético-MG,Bahia,1 - 1,FT,Brazilian Serie A,2024-25,1,1,True,1,1,Draw,Bahia
-"Sun, Jun 23",Atlético-MG,Fortaleza,1 - 1,FT,Brazilian Serie A,2024-25,1,1,True,1,1,Draw,Fortaleza
-"Sun, Jun 30",Atlético-MG,Atlético Goianiense,1 - 1,FT,Brazilian Serie A,2024-25,1,1,True,1,1,Draw,Atlético Goianiense
-"Sun, Sep 1",Grêmio,Atlético-MG,2 - 3,FT,Brazilian Serie A,2024-25,2,3,False,3,2,Win,Grêmio
-"Sun, Sep 15",Bahia,Atlético-MG,3 - 0,FT,Brazilian Serie A,2024-25,3,0,False,0,3,Loss,Bahia
-"Sun, Sep 22",Atlético-MG,Red Bull Bragantino,3 - 0,FT,Brazilian Serie A,2024-25,3,0,True,3,0,Win,Red Bull Bragantino
-"Thu, Jul 11",Atlético-MG,São Paulo,2 - 1,FT,Brazilian Serie A,2024-25,2,1,True,2,1,Win,São Paulo
-"Thu, Jun 20",Vitória,Atlético-MG,4 - 2,FT,Brazilian Serie A,2024-25,4,2,False,2,4,Loss,Vitória
-"Tue, Jul 16",Juventude,Atlético-MG,1 - 1,FT,Brazilian Serie A,2024-25,1,1,False,1,1,Draw,Juventude
-"Tue, Jun 11",Red Bull Bragantino,Atlético-MG,1 - 2,FT,Brazilian Serie A,2024-25,1,2,False,2,1,Win,Red Bull Bragantino
-"Tue, Nov 26",Atlético-MG,Juventude,2 - 3,FT,Brazilian Serie A,2024-25,2,3,True,2,3,Loss,Juventude
-"Wed, Apr 17",Atlético-MG,Criciúma,1 - 1,FT,Brazilian Serie A,2024-25,1,1,True,1,1,Draw,Criciúma
-"Wed, Dec 4",Vasco da Gama,Atlético-MG,2 - 0,FT,Brazilian Serie A,2024-25,2,0,False,0,2,Loss,Vasco da Gama
-"Wed, Jul 3",Atlético-MG,Flamengo,2 - 4,FT,Brazilian Serie A,2024-25,2,4,True,2,4,Loss,Flamengo
-"Wed, Jun 26",Internacional,Atlético-MG,1 - 2,FT,Brazilian Serie A,2024-25,1,2,False,2,1,Win,Internacional
-"Wed, Nov 13",Flamengo,Atlético-MG,0 - 0,FT,Brazilian Serie A,2024-25,0,0,False,0,0,Draw,Flamengo
-"Wed, Nov 20",Atlético-MG,Botafogo,0 - 0,FT,Brazilian Serie A,2024-25,0,0,True,0,0,Draw,Botafogo
-"Wed, Nov 6",Atlético Goianiense,Atlético-MG,1 - 0,FT,Brazilian Serie A,2024-25,1,0,False,0,1,Loss,Atlético Goianiense
-"Wed, Oct 16",Fortaleza,Atlético-MG,1 - 1,FT,Brazilian Serie A,2024-25,1,1,False,1,1,Draw,Fortaleza
-"Wed, Oct 9",Atlético-MG,Grêmio,2 - 1,FT,Brazilian Serie A,2024-25,2,1,True,2,1,Win,Grêmio
-"Mon, May 5",Juventude,Atlético-MG,0 - 1,FT,Brazilian Serie A,2025-26,0,1,False,1,0,Win,Juventude
-"Sat, Apr 26",Mirassol,Atlético-MG,2 - 2,FT,Brazilian Serie A,2025-26,2,2,False,2,2,Draw,Mirassol
-"Sat, Jul 12",Bahia,Atlético-MG,2 - 1,FT,Brazilian Serie A,2025-26,2,1,False,1,2,Loss,Bahia
-"Sat, Mar 29",Grêmio,Atlético-MG,2 - 1,FT,Brazilian Serie A,2025-26,2,1,False,1,2,Loss,Grêmio
-"Sat, May 24",Atlético-MG,Corinthians,0 - 0,FT,Brazilian Serie A,2025-26,0,0,True,0,0,Draw,Corinthians
-"Sat, Nov 8",Sport,Atlético-MG,2 - 4,FT,Brazilian Serie A,2025-26,2,4,False,4,2,Win,Sport
-"Sat, Oct 18",Corinthians,Atlético-MG,1 - 0,FT,Brazilian Serie A,2025-26,1,0,False,0,1,Loss,Corinthians
-"Sat, Oct 25",Atlético-MG,Ceará,1 - 0,FT,Brazilian Serie A,2025-26,1,0,True,1,0,Win,Ceará
-"Sat, Oct 4",Fluminense,Atlético-MG,3 - 0,FT,Brazilian Serie A,2025-26,3,0,False,0,3,Loss,Fluminense
-"Sat, Sep 20",Botafogo,Atlético-MG,1 - 0,FT,Brazilian Serie A,2025-26,1,0,False,0,1,Loss,Botafogo
-"Sat, Sep 27",Atlético-MG,Mirassol,1 - 0,FT,Brazilian Serie A,2025-26,1,0,True,1,0,Win,Mirassol
-"Sun, Apr 13",Atlético-MG,Vitória,2 - 2,FT,Brazilian Serie A,2025-26,2,2,True,2,2,Draw,Vitória
-"Sun, Apr 20",Atlético-MG,Botafogo,1 - 0,FT,Brazilian Serie A,2025-26,1,0,True,1,0,Win,Botafogo
-"Sun, Apr 6",Atlético-MG,São Paulo,0 - 0,FT,Brazilian Serie A,2025-26,0,0,True,0,0,Draw,São Paulo
-"Sun, Aug 10",Vasco da Gama,Atlético-MG,1 - 1,FT,Brazilian Serie A,2025-26,1,1,False,1,1,Draw,Vasco da Gama
-"Sun, Aug 17",Atlético-MG,Grêmio,1 - 3,FT,Brazilian Serie A,2025-26,1,3,True,1,3,Loss,Grêmio
-"Sun, Aug 24",São Paulo,Atlético-MG,2 - 0,FT,Brazilian Serie A,2025-26,2,0,False,0,2,Loss,São Paulo
-"Sun, Aug 3",Atlético-MG,Red Bull Bragantino,2 - 1,FT,Brazilian Serie A,2025-26,2,1,True,2,1,Win,Red Bull Bragantino
-"Sun, Aug 31",Vitória,Atlético-MG,1 - 0,FT,Brazilian Serie A,2025-26,1,0,False,0,1,Loss,Vitória
-"Sun, Dec 7",Atlético-MG,Vasco da Gama,5 - 0,FT,Brazilian Serie A,2025-26,5,0,True,5,0,Win,Vasco da Gama
-"Sun, Jul 20",Palmeiras,Atlético-MG,3 - 2,FT,Brazilian Serie A,2025-26,3,2,False,2,3,Loss,Palmeiras
-"Sun, Jul 27",Flamengo,Atlético-MG,1 - 0,FT,Brazilian Serie A,2025-26,1,0,False,0,1,Loss,Flamengo
-"Sun, Jun 1",Ceará,Atlético-MG,0 - 1,FT,Brazilian Serie A,2025-26,0,1,False,1,0,Win,Ceará
-"Sun, May 11",Atlético-MG,Fluminense,3 - 2,FT,Brazilian Serie A,2025-26,3,2,True,3,2,Win,Fluminense
-"Sun, May 18",Cruzeiro,Atlético-MG,0 - 0,FT,Brazilian Serie A,2025-26,0,0,False,0,0,Draw,Cruzeiro
-"Sun, Nov 16",Red Bull Bragantino,Atlético-MG,2 - 0,FT,Brazilian Serie A,2025-26,2,0,False,0,2,Loss,Red Bull Bragantino
-"Sun, Nov 2",Internacional,Atlético-MG,0 - 0,FT,Brazilian Serie A,2025-26,0,0,False,0,0,Draw,Internacional
-"Sun, Nov 30",Fortaleza,Atlético-MG,1 - 0,FT,Brazilian Serie A,2025-26,1,0,False,0,1,Loss,Fortaleza
-"Sun, Sep 14",Atlético-MG,Santos,1 - 1,FT,Brazilian Serie A,2025-26,1,1,True,1,1,Draw,Santos
-"Thu, Jun 12",Atlético-MG,Internacional,2 - 0,FT,Brazilian Serie A,2025-26,2,0,True,2,0,Win,Internacional
-"Tue, Nov 25",Atlético-MG,Flamengo,1 - 1,FT,Brazilian Serie A,2025-26,1,1,True,1,1,Draw,Flamengo
-"Tue, Sep 30",Atlético-MG,Juventude,0 - 0,FT,Brazilian Serie A,2025-26,0,0,True,0,0,Draw,Juventude
-"Wed, Apr 16",Santos,Atlético-MG,2 - 0,FT,Brazilian Serie A,2025-26,2,0,False,0,2,Loss,Santos
-"Wed, Dec 3",Atlético-MG,Palmeiras,0 - 3,FT,Brazilian Serie A,2025-26,0,3,True,0,3,Loss,Palmeiras
-"Wed, Nov 12",Atlético-MG,Fortaleza,3 - 3,FT,Brazilian Serie A,2025-26,3,3,True,3,3,Draw,Fortaleza
-"Wed, Nov 5",Atlético-MG,Bahia,3 - 0,FT,Brazilian Serie A,2025-26,3,0,True,3,0,Win,Bahia
-"Wed, Oct 15",Atlético-MG,Cruzeiro,1 - 1,FT,Brazilian Serie A,2025-26,1,1,True,1,1,Draw,Cruzeiro
-"Wed, Oct 8",Atlético-MG,Sport,3 - 1,FT,Brazilian Serie A,2025-26,3,1,True,3,1,Win,Sport
+Date,HomeTeam,AwayTeam,Score,Status,Competition,Season,HomeGoals,AwayGoals,IsHome,GaloGoals,OppGoals,WinLossDraw,Year,Date_Full,DaysOfRest,Opponent
+2020-01-11,Red Bull Bragantino,Atlético-MG,2 - 2,FT,Brazilian Serie A,2020-21,2,2,False,2,2,Draw,2020,"Mon, Jan 11-2020",7.0,Red Bull Bragantino
+2020-01-17,Atlético-MG,Atlético Goianiense,3 - 1,FT,Brazilian Serie A,2020-21,3,1,True,3,1,Win,2020,"Sun, Jan 17-2020",6.0,Atlético Goianiense
+2020-01-20,Grêmio,Atlético-MG,1 - 1,FT,Brazilian Serie A,2020-21,1,1,False,1,1,Draw,2020,"Wed, Jan 20-2020",3.0,Grêmio
+2020-01-23,Vasco da Gama,Atlético-MG,3 - 2,FT,Brazilian Serie A,2020-21,3,2,False,2,3,Loss,2020,"Sat, Jan 23-2020",2.0,Vasco da Gama
+2020-01-26,Atlético-MG,Santos,2 - 0,FT,Brazilian Serie A,2020-21,2,0,True,2,0,Win,2020,"Tue, Jan 26-2020",0.0,Santos
+2020-01-31,Atlético-MG,Fortaleza,2 - 0,FT,Brazilian Serie A,2020-21,2,0,True,2,0,Win,2020,"Sun, Jan 31-2020",2.0,Fortaleza
+2020-02-03,Goiás,Atlético-MG,1 - 0,FT,Brazilian Serie A,2020-21,1,0,False,0,1,Loss,2020,"Wed, Feb 3-2020",1.0,Goiás
+2020-02-10,Fluminense,Atlético-MG,0 - 0,FT,Brazilian Serie A,2020-21,0,0,False,0,0,Draw,2020,"Wed, Feb 10-2020",1.0,Fluminense
+2020-02-13,Atlético-MG,Bahia,1 - 1,FT,Brazilian Serie A,2020-21,1,1,True,1,1,Draw,2020,"Sat, Feb 13-2020",1.0,Bahia
+2020-02-21,Sport,Atlético-MG,2 - 3,FT,Brazilian Serie A,2020-21,2,3,False,3,2,Win,2020,"Sun, Feb 21-2020",1.0,Sport
+2020-02-25,Atlético-MG,Palmeiras,2 - 0,FT,Brazilian Serie A,2020-21,2,0,True,2,0,Win,2020,"Thu, Feb 25-2020",4.0,Palmeiras
+2020-08-09,Flamengo,Atlético-MG,0 - 1,FT,Brazilian Serie A,2020-21,0,1,False,1,0,Win,2020,"Sun, Aug 9-2020",4.0,Flamengo
+2020-08-12,Atlético-MG,Corinthians,3 - 2,FT,Brazilian Serie A,2020-21,3,2,True,3,2,Win,2020,"Wed, Aug 12-2020",3.0,Corinthians
+2020-08-16,Atlético-MG,Ceará,2 - 0,FT,Brazilian Serie A,2020-21,2,0,True,2,0,Win,2020,"Sun, Aug 16-2020",4.0,Ceará
+2020-08-19,Botafogo,Atlético-MG,2 - 1,FT,Brazilian Serie A,2020-21,2,1,False,1,2,Loss,2020,"Wed, Aug 19-2020",3.0,Botafogo
+2020-08-22,Internacional,Atlético-MG,1 - 0,FT,Brazilian Serie A,2020-21,1,0,False,0,1,Loss,2020,"Sat, Aug 22-2020",3.0,Internacional
+2020-09-03,Atlético-MG,São Paulo,3 - 0,FT,Brazilian Serie A,2020-21,3,0,True,3,0,Win,2020,"Thu, Sep 3-2020",4.0,São Paulo
+2020-09-06,Coritiba,Atlético-MG,0 - 1,FT,Brazilian Serie A,2020-21,0,1,False,1,0,Win,2020,"Sun, Sep 6-2020",3.0,Coritiba
+2020-09-09,Santos,Atlético-MG,3 - 1,FT,Brazilian Serie A,2020-21,3,1,False,1,3,Loss,2020,"Wed, Sep 9-2020",3.0,Santos
+2020-09-13,Atlético-MG,Red Bull Bragantino,2 - 1,FT,Brazilian Serie A,2020-21,2,1,True,2,1,Win,2020,"Sun, Sep 13-2020",4.0,Red Bull Bragantino
+2020-09-19,Atlético Goianiense,Atlético-MG,3 - 4,FT,Brazilian Serie A,2020-21,3,4,False,4,3,Win,2020,"Sat, Sep 19-2020",6.0,Atlético Goianiense
+2020-09-26,Atlético-MG,Grêmio,3 - 1,FT,Brazilian Serie A,2020-21,3,1,True,3,1,Win,2020,"Sat, Sep 26-2020",7.0,Grêmio
+2020-10-04,Atlético-MG,Vasco da Gama,4 - 1,FT,Brazilian Serie A,2020-21,4,1,True,4,1,Win,2020,"Sun, Oct 4-2020",8.0,Vasco da Gama
+2020-10-07,Fortaleza,Atlético-MG,2 - 1,FT,Brazilian Serie A,2020-21,2,1,False,1,2,Loss,2020,"Wed, Oct 7-2020",3.0,Fortaleza
+2020-10-10,Atlético-MG,Goiás,3 - 0,FT,Brazilian Serie A,2020-21,3,0,True,3,0,Win,2020,"Sat, Oct 10-2020",3.0,Goiás
+2020-10-14,Atlético-MG,Fluminense,1 - 1,FT,Brazilian Serie A,2020-21,1,1,True,1,1,Draw,2020,"Wed, Oct 14-2020",4.0,Fluminense
+2020-10-19,Bahia,Atlético-MG,3 - 1,FT,Brazilian Serie A,2020-21,3,1,False,1,3,Loss,2020,"Mon, Oct 19-2020",5.0,Bahia
+2020-10-24,Atlético-MG,Sport,0 - 0,FT,Brazilian Serie A,2020-21,0,0,True,0,0,Draw,2020,"Sat, Oct 24-2020",5.0,Sport
+2020-11-02,Palmeiras,Atlético-MG,3 - 0,FT,Brazilian Serie A,2020-21,3,0,False,0,3,Loss,2020,"Mon, Nov 2-2020",9.0,Palmeiras
+2020-11-08,Atlético-MG,Flamengo,4 - 0,FT,Brazilian Serie A,2020-21,4,0,True,4,0,Win,2020,"Sun, Nov 8-2020",6.0,Flamengo
+2020-11-14,Corinthians,Atlético-MG,1 - 2,FT,Brazilian Serie A,2020-21,1,2,False,2,1,Win,2020,"Sat, Nov 14-2020",6.0,Corinthians
+2020-11-18,Atlético-MG,Athletico Paranaense,0 - 2,FT,Brazilian Serie A,2020-21,0,2,True,0,2,Loss,2020,"Wed, Nov 18-2020",4.0,Athletico Paranaense
+2020-11-22,Ceará,Atlético-MG,2 - 2,FT,Brazilian Serie A,2020-21,2,2,False,2,2,Draw,2020,"Sun, Nov 22-2020",4.0,Ceará
+2020-11-25,Atlético-MG,Botafogo,2 - 1,FT,Brazilian Serie A,2020-21,2,1,True,2,1,Win,2020,"Wed, Nov 25-2020",3.0,Botafogo
+2020-12-06,Atlético-MG,Internacional,2 - 2,FT,Brazilian Serie A,2020-21,2,2,True,2,2,Draw,2020,"Sun, Dec 6-2020",11.0,Internacional
+2020-12-12,Athletico Paranaense,Atlético-MG,0 - 1,FT,Brazilian Serie A,2020-21,0,1,False,1,0,Win,2020,"Sat, Dec 12-2020",6.0,Athletico Paranaense
+2020-12-16,São Paulo,Atlético-MG,3 - 0,FT,Brazilian Serie A,2020-21,3,0,False,0,3,Loss,2020,"Wed, Dec 16-2020",4.0,São Paulo
+2020-12-26,Atlético-MG,Coritiba,2 - 0,FT,Brazilian Serie A,2020-21,2,0,True,2,0,Win,2020,"Sat, Dec 26-2020",10.0,Coritiba
+2021-05-30,Atlético-MG,Fortaleza,1 - 2,FT,Brazilian Serie A,2021-22,1,2,True,1,2,Loss,2021,"Sun, May 30-2021",5.0,Fortaleza
+2021-06-06,Sport,Atlético-MG,0 - 1,FT,Brazilian Serie A,2021-22,0,1,False,1,0,Win,2021,"Sun, Jun 6-2021",4.0,Sport
+2021-06-13,Atlético-MG,São Paulo,1 - 0,FT,Brazilian Serie A,2021-22,1,0,True,1,0,Win,2021,"Sun, Jun 13-2021",3.0,São Paulo
+2021-06-16,Internacional,Atlético-MG,0 - 1,FT,Brazilian Serie A,2021-22,0,1,False,1,0,Win,2021,"Wed, Jun 16-2021",3.0,Internacional
+2021-06-21,Atlético-MG,Chapecoense,1 - 1,FT,Brazilian Serie A,2021-22,1,1,True,1,1,Draw,2021,"Mon, Jun 21-2021",5.0,Chapecoense
+2021-06-24,Ceará,Atlético-MG,2 - 1,FT,Brazilian Serie A,2021-22,2,1,False,1,2,Loss,2021,"Thu, Jun 24-2021",3.0,Ceará
+2021-06-27,Santos,Atlético-MG,2 - 0,FT,Brazilian Serie A,2021-22,2,0,False,0,2,Loss,2021,"Sun, Jun 27-2021",3.0,Santos
+2021-07-01,Atlético-MG,Atlético Goianiense,4 - 1,FT,Brazilian Serie A,2021-22,4,1,True,4,1,Win,2021,"Thu, Jul 1-2021",4.0,Atlético Goianiense
+2021-07-04,Cuiabá,Atlético-MG,0 - 1,FT,Brazilian Serie A,2021-22,0,1,False,1,0,Win,2021,"Sun, Jul 4-2021",3.0,Cuiabá
+2021-07-07,Atlético-MG,Flamengo,2 - 1,FT,Brazilian Serie A,2021-22,2,1,True,2,1,Win,2021,"Wed, Jul 7-2021",3.0,Flamengo
+2021-07-10,América Mineiro,Atlético-MG,0 - 1,FT,Brazilian Serie A,2021-22,0,1,False,1,0,Win,2021,"Sat, Jul 10-2021",3.0,América Mineiro
+2021-07-17,Corinthians,Atlético-MG,1 - 2,FT,Brazilian Serie A,2021-22,1,2,False,2,1,Win,2021,"Sat, Jul 17-2021",4.0,Corinthians
+2021-07-25,Atlético-MG,Bahia,3 - 0,FT,Brazilian Serie A,2021-22,3,0,True,3,0,Win,2021,"Sun, Jul 25-2021",5.0,Bahia
+2021-08-01,Atlético-MG,Athletico Paranaense,2 - 0,FT,Brazilian Serie A,2021-22,2,0,True,2,0,Win,2021,"Sun, Aug 1-2021",4.0,Athletico Paranaense
+2021-08-08,Juventude,Atlético-MG,1 - 2,FT,Brazilian Serie A,2021-22,1,2,False,2,1,Win,2021,"Sun, Aug 8-2021",4.0,Juventude
+2021-08-14,Atlético-MG,Palmeiras,2 - 0,FT,Brazilian Serie A,2021-22,2,0,True,2,0,Win,2021,"Sat, Aug 14-2021",3.0,Palmeiras
+2021-08-23,Fluminense,Atlético-MG,1 - 1,FT,Brazilian Serie A,2021-22,1,1,False,1,1,Draw,2021,"Mon, Aug 23-2021",5.0,Fluminense
+2021-08-29,Red Bull Bragantino,Atlético-MG,1 - 1,FT,Brazilian Serie A,2021-22,1,1,False,1,1,Draw,2021,"Sun, Aug 29-2021",3.0,Red Bull Bragantino
+2021-09-18,Atlético-MG,Sport,3 - 0,FT,Brazilian Serie A,2021-22,3,0,True,3,0,Win,2021,"Sat, Sep 18-2021",3.0,Sport
+2021-09-25,São Paulo,Atlético-MG,0 - 0,FT,Brazilian Serie A,2021-22,0,0,False,0,0,Draw,2021,"Sat, Sep 25-2021",4.0,São Paulo
+2021-10-02,Atlético-MG,Internacional,1 - 0,FT,Brazilian Serie A,2021-22,1,0,True,1,0,Win,2021,"Sat, Oct 2-2021",4.0,Internacional
+2021-10-06,Chapecoense,Atlético-MG,2 - 2,FT,Brazilian Serie A,2021-22,2,2,False,2,2,Draw,2021,"Wed, Oct 6-2021",4.0,Chapecoense
+2021-10-09,Atlético-MG,Ceará,3 - 1,FT,Brazilian Serie A,2021-22,3,1,True,3,1,Win,2021,"Sat, Oct 9-2021",3.0,Ceará
+2021-10-13,Atlético-MG,Santos,3 - 1,FT,Brazilian Serie A,2021-22,3,1,True,3,1,Win,2021,"Wed, Oct 13-2021",4.0,Santos
+2021-10-17,Atlético Goianiense,Atlético-MG,2 - 1,FT,Brazilian Serie A,2021-22,2,1,False,1,2,Loss,2021,"Sun, Oct 17-2021",4.0,Atlético Goianiense
+2021-10-24,Atlético-MG,Cuiabá,2 - 1,FT,Brazilian Serie A,2021-22,2,1,True,2,1,Win,2021,"Sun, Oct 24-2021",4.0,Cuiabá
+2021-10-30,Flamengo,Atlético-MG,1 - 0,FT,Brazilian Serie A,2021-22,1,0,False,0,1,Loss,2021,"Sat, Oct 30-2021",3.0,Flamengo
+2021-11-03,Atlético-MG,Grêmio,2 - 1,FT,Brazilian Serie A,2021-22,2,1,True,2,1,Win,2021,"Wed, Nov 3-2021",4.0,Grêmio
+2021-11-07,Atlético-MG,América Mineiro,1 - 0,FT,Brazilian Serie A,2021-22,1,0,True,1,0,Win,2021,"Sun, Nov 7-2021",4.0,América Mineiro
+2021-11-10,Atlético-MG,Corinthians,3 - 0,FT,Brazilian Serie A,2021-22,3,0,True,3,0,Win,2021,"Wed, Nov 10-2021",3.0,Corinthians
+2021-11-16,Athletico Paranaense,Atlético-MG,0 - 1,FT,Brazilian Serie A,2021-22,0,1,False,1,0,Win,2021,"Tue, Nov 16-2021",6.0,Athletico Paranaense
+2021-11-20,Atlético-MG,Juventude,2 - 0,FT,Brazilian Serie A,2021-22,2,0,True,2,0,Win,2021,"Sat, Nov 20-2021",4.0,Juventude
+2021-11-23,Palmeiras,Atlético-MG,2 - 2,FT,Brazilian Serie A,2021-22,2,2,False,2,2,Draw,2021,"Tue, Nov 23-2021",3.0,Palmeiras
+2021-11-28,Atlético-MG,Fluminense,2 - 1,FT,Brazilian Serie A,2021-22,2,1,True,2,1,Win,2021,"Sun, Nov 28-2021",5.0,Fluminense
+2021-12-02,Bahia,Atlético-MG,2 - 3,FT,Brazilian Serie A,2021-22,2,3,False,3,2,Win,2021,"Thu, Dec 2-2021",4.0,Bahia
+2021-12-05,Atlético-MG,Red Bull Bragantino,4 - 3,FT,Brazilian Serie A,2021-22,4,3,True,4,3,Win,2021,"Sun, Dec 5-2021",3.0,Red Bull Bragantino
+2021-12-09,Grêmio,Atlético-MG,4 - 3,FT,Brazilian Serie A,2021-22,4,3,False,3,4,Loss,2021,"Thu, Dec 9-2021",4.0,Grêmio
+2022-04-10,Atlético-MG,Internacional,2 - 0,FT,Brazilian Serie A,2022-23,2,0,True,2,0,Win,2022,"Sun, Apr 10-2022",4.0,Internacional
+2022-04-17,Athletico Paranaense,Atlético-MG,0 - 1,FT,Brazilian Serie A,2022-23,0,1,False,1,0,Win,2022,"Sun, Apr 17-2022",4.0,Athletico Paranaense
+2022-04-23,Atlético-MG,Coritiba,2 - 2,FT,Brazilian Serie A,2022-23,2,2,True,2,2,Draw,2022,"Sat, Apr 23-2022",3.0,Coritiba
+2022-04-30,Goiás,Atlético-MG,2 - 2,FT,Brazilian Serie A,2022-23,2,2,False,2,2,Draw,2022,"Sat, Apr 30-2022",4.0,Goiás
+2022-05-07,Atlético-MG,América Mineiro,1 - 2,FT,Brazilian Serie A,2022-23,1,2,True,1,2,Loss,2022,"Sat, May 7-2022",4.0,América Mineiro
+2022-05-11,Red Bull Bragantino,Atlético-MG,1 - 1,FT,Brazilian Serie A,2022-23,1,1,False,1,1,Draw,2022,"Wed, May 11-2022",4.0,Red Bull Bragantino
+2022-05-14,Atlético-MG,Atlético Goianiense,2 - 0,FT,Brazilian Serie A,2022-23,2,0,True,2,0,Win,2022,"Sat, May 14-2022",3.0,Atlético Goianiense
+2022-05-29,Atlético-MG,Avaí,2 - 1,FT,Brazilian Serie A,2022-23,2,1,True,2,1,Win,2022,"Sun, May 29-2022",4.0,Avaí
+2022-06-05,Palmeiras,Atlético-MG,0 - 0,FT,Brazilian Serie A,2022-23,0,0,False,0,0,Draw,2022,"Sun, Jun 5-2022",7.0,Palmeiras
+2022-06-08,Fluminense,Atlético-MG,5 - 3,FT,Brazilian Serie A,2022-23,5,3,False,3,5,Loss,2022,"Wed, Jun 8-2022",3.0,Fluminense
+2022-06-11,Atlético-MG,Santos,1 - 1,FT,Brazilian Serie A,2022-23,1,1,True,1,1,Draw,2022,"Sat, Jun 11-2022",3.0,Santos
+2022-06-15,Ceará,Atlético-MG,0 - 0,FT,Brazilian Serie A,2022-23,0,0,False,0,0,Draw,2022,"Wed, Jun 15-2022",4.0,Ceará
+2022-06-19,Atlético-MG,Flamengo,2 - 0,FT,Brazilian Serie A,2022-23,2,0,True,2,0,Win,2022,"Sun, Jun 19-2022",4.0,Flamengo
+2022-06-25,Atlético-MG,Fortaleza,3 - 2,FT,Brazilian Serie A,2022-23,3,2,True,3,2,Win,2022,"Sat, Jun 25-2022",3.0,Fortaleza
+2022-07-02,Juventude,Atlético-MG,1 - 2,FT,Brazilian Serie A,2022-23,1,2,False,2,1,Win,2022,"Sat, Jul 2-2022",4.0,Juventude
+2022-07-10,Atlético-MG,São Paulo,0 - 0,FT,Brazilian Serie A,2022-23,0,0,True,0,0,Draw,2022,"Sun, Jul 10-2022",5.0,São Paulo
+2022-07-17,Botafogo,Atlético-MG,0 - 1,FT,Brazilian Serie A,2022-23,0,1,False,1,0,Win,2022,"Sun, Jul 17-2022",4.0,Botafogo
+2022-07-21,Cuiabá,Atlético-MG,1 - 1,FT,Brazilian Serie A,2022-23,1,1,False,1,1,Draw,2022,"Thu, Jul 21-2022",4.0,Cuiabá
+2022-07-24,Atlético-MG,Corinthians,1 - 2,FT,Brazilian Serie A,2022-23,1,2,True,1,2,Loss,2022,"Sun, Jul 24-2022",3.0,Corinthians
+2022-07-31,Internacional,Atlético-MG,3 - 0,FT,Brazilian Serie A,2022-23,3,0,False,0,3,Loss,2022,"Sun, Jul 31-2022",7.0,Internacional
+2022-08-07,Atlético-MG,Athletico Paranaense,2 - 3,FT,Brazilian Serie A,2022-23,2,3,True,2,3,Loss,2022,"Sun, Aug 7-2022",4.0,Athletico Paranaense
+2022-08-14,Coritiba,Atlético-MG,0 - 1,FT,Brazilian Serie A,2022-23,0,1,False,1,0,Win,2022,"Sun, Aug 14-2022",4.0,Coritiba
+2022-08-20,Atlético-MG,Goiás,0 - 1,FT,Brazilian Serie A,2022-23,0,1,True,0,1,Loss,2022,"Sat, Aug 20-2022",6.0,Goiás
+2022-08-28,América Mineiro,Atlético-MG,1 - 1,FT,Brazilian Serie A,2022-23,1,1,False,1,1,Draw,2022,"Sun, Aug 28-2022",8.0,América Mineiro
+2022-09-04,Atlético Goianiense,Atlético-MG,0 - 2,FT,Brazilian Serie A,2022-23,0,2,False,2,0,Win,2022,"Sun, Sep 4-2022",7.0,Atlético Goianiense
+2022-09-07,Atlético-MG,Red Bull Bragantino,1 - 1,FT,Brazilian Serie A,2022-23,1,1,True,1,1,Draw,2022,"Wed, Sep 7-2022",3.0,Red Bull Bragantino
+2022-09-17,Avaí,Atlético-MG,1 - 0,FT,Brazilian Serie A,2022-23,1,0,False,0,1,Loss,2022,"Sat, Sep 17-2022",10.0,Avaí
+2022-09-28,Atlético-MG,Palmeiras,0 - 1,FT,Brazilian Serie A,2022-23,0,1,True,0,1,Loss,2022,"Wed, Sep 28-2022",11.0,Palmeiras
+2022-10-01,Atlético-MG,Fluminense,2 - 0,FT,Brazilian Serie A,2022-23,2,0,True,2,0,Win,2022,"Sat, Oct 1-2022",3.0,Fluminense
+2022-10-05,Santos,Atlético-MG,1 - 2,FT,Brazilian Serie A,2022-23,1,2,False,2,1,Win,2022,"Wed, Oct 5-2022",4.0,Santos
+2022-10-09,Atlético-MG,Ceará,0 - 0,FT,Brazilian Serie A,2022-23,0,0,True,0,0,Draw,2022,"Sun, Oct 9-2022",4.0,Ceará
+2022-10-15,Flamengo,Atlético-MG,1 - 0,FT,Brazilian Serie A,2022-23,1,0,False,0,1,Loss,2022,"Sat, Oct 15-2022",6.0,Flamengo
+2022-10-24,Fortaleza,Atlético-MG,0 - 0,FT,Brazilian Serie A,2022-23,0,0,False,0,0,Draw,2022,"Mon, Oct 24-2022",9.0,Fortaleza
+2022-10-27,Atlético-MG,Juventude,1 - 0,FT,Brazilian Serie A,2022-23,1,0,True,1,0,Win,2022,"Thu, Oct 27-2022",3.0,Juventude
+2022-11-01,São Paulo,Atlético-MG,2 - 2,FT,Brazilian Serie A,2022-23,2,2,False,2,2,Draw,2022,"Tue, Nov 1-2022",5.0,São Paulo
+2022-11-07,Atlético-MG,Botafogo,0 - 2,FT,Brazilian Serie A,2022-23,0,2,True,0,2,Loss,2022,"Mon, Nov 7-2022",6.0,Botafogo
+2022-11-10,Atlético-MG,Cuiabá,3 - 0,FT,Brazilian Serie A,2022-23,3,0,True,3,0,Win,2022,"Thu, Nov 10-2022",3.0,Cuiabá
+2022-11-13,Corinthians,Atlético-MG,0 - 1,FT,Brazilian Serie A,2022-23,0,1,False,1,0,Win,2022,"Sun, Nov 13-2022",3.0,Corinthians
+2023-04-15,Atlético-MG,Vasco da Gama,1 - 2,FT,Brazilian Serie A,2023-24,1,2,True,1,2,Loss,2023,"Sat, Apr 15-2023",3.0,Vasco da Gama
+2023-04-23,Santos,Atlético-MG,0 - 0,FT,Brazilian Serie A,2023-24,0,0,False,0,0,Draw,2023,"Sun, Apr 23-2023",5.0,Santos
+2023-04-29,Atlético-MG,Athletico Paranaense,2 - 1,FT,Brazilian Serie A,2023-24,2,1,True,2,1,Win,2023,"Sat, Apr 29-2023",3.0,Athletico Paranaense
+2023-05-07,Botafogo,Atlético-MG,2 - 0,FT,Brazilian Serie A,2023-24,2,0,False,0,2,Loss,2023,"Sun, May 7-2023",4.0,Botafogo
+2023-05-10,Cuiabá,Atlético-MG,0 - 4,FT,Brazilian Serie A,2023-24,0,4,False,4,0,Win,2023,"Wed, May 10-2023",3.0,Cuiabá
+2023-05-13,Atlético-MG,Internacional,2 - 0,FT,Brazilian Serie A,2023-24,2,0,True,2,0,Win,2023,"Sat, May 13-2023",3.0,Internacional
+2023-05-20,Coritiba,Atlético-MG,1 - 2,FT,Brazilian Serie A,2023-24,1,2,False,2,1,Win,2023,"Sat, May 20-2023",3.0,Coritiba
+2023-05-28,Atlético-MG,Palmeiras,1 - 1,FT,Brazilian Serie A,2023-24,1,1,True,1,1,Draw,2023,"Sun, May 28-2023",5.0,Palmeiras
+2023-06-03,Cruzeiro,Atlético-MG,0 - 1,FT,Brazilian Serie A,2023-24,0,1,False,1,0,Win,2023,"Sat, Jun 3-2023",3.0,Cruzeiro
+2023-06-10,Atlético-MG,Red Bull Bragantino,1 - 1,FT,Brazilian Serie A,2023-24,1,1,True,1,1,Draw,2023,"Sat, Jun 10-2023",4.0,Red Bull Bragantino
+2023-06-21,Fluminense,Atlético-MG,1 - 1,FT,Brazilian Serie A,2023-24,1,1,False,1,1,Draw,2023,"Wed, Jun 21-2023",11.0,Fluminense
+2023-06-24,Fortaleza,Atlético-MG,2 - 1,FT,Brazilian Serie A,2023-24,2,1,False,1,2,Loss,2023,"Sat, Jun 24-2023",3.0,Fortaleza
+2023-07-02,Atlético-MG,América Mineiro,2 - 2,FT,Brazilian Serie A,2023-24,2,2,True,2,2,Draw,2023,"Sun, Jul 2-2023",5.0,América Mineiro
+2023-07-08,Atlético-MG,Corinthians,0 - 1,FT,Brazilian Serie A,2023-24,0,1,True,0,1,Loss,2023,"Sat, Jul 8-2023",6.0,Corinthians
+2023-07-17,Goiás,Atlético-MG,0 - 0,FT,Brazilian Serie A,2023-24,0,0,False,0,0,Draw,2023,"Mon, Jul 17-2023",9.0,Goiás
+2023-07-22,Grêmio,Atlético-MG,1 - 0,FT,Brazilian Serie A,2023-24,1,0,False,0,1,Loss,2023,"Sat, Jul 22-2023",5.0,Grêmio
+2023-07-29,Atlético-MG,Flamengo,1 - 2,FT,Brazilian Serie A,2023-24,1,2,True,1,2,Loss,2023,"Sat, Jul 29-2023",7.0,Flamengo
+2023-08-06,São Paulo,Atlético-MG,0 - 2,FT,Brazilian Serie A,2023-24,0,2,False,2,0,Win,2023,"Sun, Aug 6-2023",4.0,São Paulo
+2023-08-13,Atlético-MG,Bahia,1 - 0,FT,Brazilian Serie A,2023-24,1,0,True,1,0,Win,2023,"Sun, Aug 13-2023",4.0,Bahia
+2023-08-20,Vasco da Gama,Atlético-MG,1 - 0,FT,Brazilian Serie A,2023-24,1,0,False,0,1,Loss,2023,"Sun, Aug 20-2023",7.0,Vasco da Gama
+2023-08-27,Atlético-MG,Santos,2 - 0,FT,Brazilian Serie A,2023-24,2,0,True,2,0,Win,2023,"Sun, Aug 27-2023",7.0,Santos
+2023-09-02,Athletico Paranaense,Atlético-MG,1 - 1,FT,Brazilian Serie A,2023-24,1,1,False,1,1,Draw,2023,"Sat, Sep 2-2023",6.0,Athletico Paranaense
+2023-09-16,Atlético-MG,Botafogo,1 - 0,FT,Brazilian Serie A,2023-24,1,0,True,1,0,Win,2023,"Sat, Sep 16-2023",14.0,Botafogo
+2023-09-23,Atlético-MG,Cuiabá,1 - 0,FT,Brazilian Serie A,2023-24,1,0,True,1,0,Win,2023,"Sat, Sep 23-2023",7.0,Cuiabá
+2023-09-30,Internacional,Atlético-MG,0 - 2,FT,Brazilian Serie A,2023-24,0,2,False,2,0,Win,2023,"Sat, Sep 30-2023",7.0,Internacional
+2023-10-08,Atlético-MG,Coritiba,1 - 2,FT,Brazilian Serie A,2023-24,1,2,True,1,2,Loss,2023,"Sun, Oct 8-2023",8.0,Coritiba
+2023-10-19,Palmeiras,Atlético-MG,0 - 2,FT,Brazilian Serie A,2023-24,0,2,False,2,0,Win,2023,"Thu, Oct 19-2023",11.0,Palmeiras
+2023-10-22,Atlético-MG,Cruzeiro,0 - 1,FT,Brazilian Serie A,2023-24,0,1,True,0,1,Loss,2023,"Sun, Oct 22-2023",3.0,Cruzeiro
+2023-10-25,Red Bull Bragantino,Atlético-MG,1 - 2,FT,Brazilian Serie A,2023-24,1,2,False,2,1,Win,2023,"Wed, Oct 25-2023",3.0,Red Bull Bragantino
+2023-10-28,Atlético-MG,Fluminense,2 - 0,FT,Brazilian Serie A,2023-24,2,0,True,2,0,Win,2023,"Sat, Oct 28-2023",3.0,Fluminense
+2023-11-01,Atlético-MG,Fortaleza,3 - 1,FT,Brazilian Serie A,2023-24,3,1,True,3,1,Win,2023,"Wed, Nov 1-2023",4.0,Fortaleza
+2023-11-04,América Mineiro,Atlético-MG,1 - 1,FT,Brazilian Serie A,2023-24,1,1,False,1,1,Draw,2023,"Sat, Nov 4-2023",3.0,América Mineiro
+2023-11-09,Corinthians,Atlético-MG,1 - 1,FT,Brazilian Serie A,2023-24,1,1,False,1,1,Draw,2023,"Thu, Nov 9-2023",5.0,Corinthians
+2023-11-12,Atlético-MG,Goiás,2 - 1,FT,Brazilian Serie A,2023-24,2,1,True,2,1,Win,2023,"Sun, Nov 12-2023",3.0,Goiás
+2023-11-26,Atlético-MG,Grêmio,3 - 0,FT,Brazilian Serie A,2023-24,3,0,True,3,0,Win,2023,"Sun, Nov 26-2023",14.0,Grêmio
+2023-11-29,Flamengo,Atlético-MG,0 - 3,FT,Brazilian Serie A,2023-24,0,3,False,3,0,Win,2023,"Wed, Nov 29-2023",3.0,Flamengo
+2023-12-02,Atlético-MG,São Paulo,2 - 1,FT,Brazilian Serie A,2023-24,2,1,True,2,1,Win,2023,"Sat, Dec 2-2023",3.0,São Paulo
+2023-12-06,Bahia,Atlético-MG,4 - 1,FT,Brazilian Serie A,2023-24,4,1,False,1,4,Loss,2023,"Wed, Dec 6-2023",4.0,Bahia
+2024-04-14,Corinthians,Atlético-MG,0 - 0,FT,Brazilian Serie A,2024-25,0,0,False,0,0,Draw,2024,"Sun, Apr 14-2024",4.0,Corinthians
+2024-04-17,Atlético-MG,Criciúma,1 - 1,FT,Brazilian Serie A,2024-25,1,1,True,1,1,Draw,2024,"Wed, Apr 17-2024",3.0,Criciúma
+2024-04-20,Atlético-MG,Cruzeiro,3 - 0,FT,Brazilian Serie A,2024-25,3,0,True,3,0,Win,2024,"Sat, Apr 20-2024",3.0,Cruzeiro
+2024-04-27,Cuiabá,Atlético-MG,0 - 3,FT,Brazilian Serie A,2024-25,0,3,False,3,0,Win,2024,"Sat, Apr 27-2024",4.0,Cuiabá
+2024-05-04,Fluminense,Atlético-MG,2 - 2,FT,Brazilian Serie A,2024-25,2,2,False,2,2,Draw,2024,"Sat, May 4-2024",4.0,Fluminense
+2024-06-02,Atlético-MG,Bahia,1 - 1,FT,Brazilian Serie A,2024-25,1,1,True,1,1,Draw,2024,"Sun, Jun 2-2024",5.0,Bahia
+2024-06-11,Red Bull Bragantino,Atlético-MG,1 - 2,FT,Brazilian Serie A,2024-25,1,2,False,2,1,Win,2024,"Tue, Jun 11-2024",9.0,Red Bull Bragantino
+2024-06-17,Atlético-MG,Palmeiras,0 - 4,FT,Brazilian Serie A,2024-25,0,4,True,0,4,Loss,2024,"Mon, Jun 17-2024",6.0,Palmeiras
+2024-06-20,Vitória,Atlético-MG,4 - 2,FT,Brazilian Serie A,2024-25,4,2,False,2,4,Loss,2024,"Thu, Jun 20-2024",3.0,Vitória
+2024-06-23,Atlético-MG,Fortaleza,1 - 1,FT,Brazilian Serie A,2024-25,1,1,True,1,1,Draw,2024,"Sun, Jun 23-2024",3.0,Fortaleza
+2024-06-26,Internacional,Atlético-MG,1 - 2,FT,Brazilian Serie A,2024-25,1,2,False,2,1,Win,2024,"Wed, Jun 26-2024",3.0,Internacional
+2024-06-30,Atlético-MG,Atlético Goianiense,1 - 1,FT,Brazilian Serie A,2024-25,1,1,True,1,1,Draw,2024,"Sun, Jun 30-2024",4.0,Atlético Goianiense
+2024-07-03,Atlético-MG,Flamengo,2 - 4,FT,Brazilian Serie A,2024-25,2,4,True,2,4,Loss,2024,"Wed, Jul 3-2024",3.0,Flamengo
+2024-07-07,Botafogo,Atlético-MG,3 - 0,FT,Brazilian Serie A,2024-25,3,0,False,0,3,Loss,2024,"Sun, Jul 7-2024",4.0,Botafogo
+2024-07-11,Atlético-MG,São Paulo,2 - 1,FT,Brazilian Serie A,2024-25,2,1,True,2,1,Win,2024,"Thu, Jul 11-2024",4.0,São Paulo
+2024-07-16,Juventude,Atlético-MG,1 - 1,FT,Brazilian Serie A,2024-25,1,1,False,1,1,Draw,2024,"Tue, Jul 16-2024",5.0,Juventude
+2024-07-21,Atlético-MG,Vasco da Gama,2 - 0,FT,Brazilian Serie A,2024-25,2,0,True,2,0,Win,2024,"Sun, Jul 21-2024",5.0,Vasco da Gama
+2024-07-28,Atlético-MG,Corinthians,2 - 1,FT,Brazilian Serie A,2024-25,2,1,True,2,1,Win,2024,"Sun, Jul 28-2024",7.0,Corinthians
+2024-08-03,Criciúma,Atlético-MG,2 - 1,FT,Brazilian Serie A,2024-25,2,1,False,1,2,Loss,2024,"Sat, Aug 3-2024",3.0,Criciúma
+2024-08-10,Cruzeiro,Atlético-MG,0 - 0,FT,Brazilian Serie A,2024-25,0,0,False,0,0,Draw,2024,"Sat, Aug 10-2024",3.0,Cruzeiro
+2024-08-17,Atlético-MG,Cuiabá,1 - 1,FT,Brazilian Serie A,2024-25,1,1,True,1,1,Draw,2024,"Sat, Aug 17-2024",4.0,Cuiabá
+2024-08-24,Atlético-MG,Fluminense,0 - 2,FT,Brazilian Serie A,2024-25,0,2,True,0,2,Loss,2024,"Sat, Aug 24-2024",4.0,Fluminense
+2024-09-01,Grêmio,Atlético-MG,2 - 3,FT,Brazilian Serie A,2024-25,2,3,False,3,2,Win,2024,"Sun, Sep 1-2024",4.0,Grêmio
+2024-09-15,Bahia,Atlético-MG,3 - 0,FT,Brazilian Serie A,2024-25,3,0,False,0,3,Loss,2024,"Sun, Sep 15-2024",3.0,Bahia
+2024-09-22,Atlético-MG,Red Bull Bragantino,3 - 0,FT,Brazilian Serie A,2024-25,3,0,True,3,0,Win,2024,"Sun, Sep 22-2024",4.0,Red Bull Bragantino
+2024-09-28,Palmeiras,Atlético-MG,2 - 1,FT,Brazilian Serie A,2024-25,2,1,False,1,2,Loss,2024,"Sat, Sep 28-2024",3.0,Palmeiras
+2024-10-05,Atlético-MG,Vitória,2 - 2,FT,Brazilian Serie A,2024-25,2,2,True,2,2,Draw,2024,"Sat, Oct 5-2024",3.0,Vitória
+2024-10-09,Atlético-MG,Grêmio,2 - 1,FT,Brazilian Serie A,2024-25,2,1,True,2,1,Win,2024,"Wed, Oct 9-2024",4.0,Grêmio
+2024-10-16,Fortaleza,Atlético-MG,1 - 1,FT,Brazilian Serie A,2024-25,1,1,False,1,1,Draw,2024,"Wed, Oct 16-2024",7.0,Fortaleza
+2024-10-26,Atlético-MG,Internacional,1 - 3,FT,Brazilian Serie A,2024-25,1,3,True,1,3,Loss,2024,"Sat, Oct 26-2024",4.0,Internacional
+2024-11-06,Atlético Goianiense,Atlético-MG,1 - 0,FT,Brazilian Serie A,2024-25,1,0,False,0,1,Loss,2024,"Wed, Nov 6-2024",3.0,Atlético Goianiense
+2024-11-13,Flamengo,Atlético-MG,0 - 0,FT,Brazilian Serie A,2024-25,0,0,False,0,0,Draw,2024,"Wed, Nov 13-2024",3.0,Flamengo
+2024-11-16,Athletico Paranaense,Atlético-MG,1 - 0,FT,Brazilian Serie A,2024-25,1,0,False,0,1,Loss,2024,"Sat, Nov 16-2024",3.0,Athletico Paranaense
+2024-11-20,Atlético-MG,Botafogo,0 - 0,FT,Brazilian Serie A,2024-25,0,0,True,0,0,Draw,2024,"Wed, Nov 20-2024",4.0,Botafogo
+2024-11-23,São Paulo,Atlético-MG,2 - 2,FT,Brazilian Serie A,2024-25,2,2,False,2,2,Draw,2024,"Sat, Nov 23-2024",3.0,São Paulo
+2024-11-26,Atlético-MG,Juventude,2 - 3,FT,Brazilian Serie A,2024-25,2,3,True,2,3,Loss,2024,"Tue, Nov 26-2024",3.0,Juventude
+2024-12-04,Vasco da Gama,Atlético-MG,2 - 0,FT,Brazilian Serie A,2024-25,2,0,False,0,2,Loss,2024,"Wed, Dec 4-2024",4.0,Vasco da Gama
+2024-12-08,Atlético-MG,Athletico Paranaense,1 - 0,FT,Brazilian Serie A,2024-25,1,0,True,1,0,Win,2024,"Sun, Dec 8-2024",4.0,Athletico Paranaense
+2025-03-29,Grêmio,Atlético-MG,2 - 1,FT,Brazilian Serie A,2025-26,2,1,False,1,2,Loss,2025,"Sat, Mar 29-2025",14.0,Grêmio
+2025-04-06,Atlético-MG,São Paulo,0 - 0,FT,Brazilian Serie A,2025-26,0,0,True,0,0,Draw,2025,"Sun, Apr 6-2025",5.0,São Paulo
+2025-04-13,Atlético-MG,Vitória,2 - 2,FT,Brazilian Serie A,2025-26,2,2,True,2,2,Draw,2025,"Sun, Apr 13-2025",3.0,Vitória
+2025-04-16,Santos,Atlético-MG,2 - 0,FT,Brazilian Serie A,2025-26,2,0,False,0,2,Loss,2025,"Wed, Apr 16-2025",3.0,Santos
+2025-04-20,Atlético-MG,Botafogo,1 - 0,FT,Brazilian Serie A,2025-26,1,0,True,1,0,Win,2025,"Sun, Apr 20-2025",4.0,Botafogo
+2025-04-26,Mirassol,Atlético-MG,2 - 2,FT,Brazilian Serie A,2025-26,2,2,False,2,2,Draw,2025,"Sat, Apr 26-2025",3.0,Mirassol
+2025-05-05,Juventude,Atlético-MG,0 - 1,FT,Brazilian Serie A,2025-26,0,1,False,1,0,Win,2025,"Mon, May 5-2025",6.0,Juventude
+2025-05-11,Atlético-MG,Fluminense,3 - 2,FT,Brazilian Serie A,2025-26,3,2,True,3,2,Win,2025,"Sun, May 11-2025",3.0,Fluminense
+2025-05-18,Cruzeiro,Atlético-MG,0 - 0,FT,Brazilian Serie A,2025-26,0,0,False,0,0,Draw,2025,"Sun, May 18-2025",3.0,Cruzeiro
+2025-05-24,Atlético-MG,Corinthians,0 - 0,FT,Brazilian Serie A,2025-26,0,0,True,0,0,Draw,2025,"Sat, May 24-2025",3.0,Corinthians
+2025-06-01,Ceará,Atlético-MG,0 - 1,FT,Brazilian Serie A,2025-26,0,1,False,1,0,Win,2025,"Sun, Jun 1-2025",3.0,Ceará
+2025-06-12,Atlético-MG,Internacional,2 - 0,FT,Brazilian Serie A,2025-26,2,0,True,2,0,Win,2025,"Thu, Jun 12-2025",11.0,Internacional
+2025-07-12,Bahia,Atlético-MG,2 - 1,FT,Brazilian Serie A,2025-26,2,1,False,1,2,Loss,2025,"Sat, Jul 12-2025",30.0,Bahia
+2025-07-20,Palmeiras,Atlético-MG,3 - 2,FT,Brazilian Serie A,2025-26,3,2,False,2,3,Loss,2025,"Sun, Jul 20-2025",3.0,Palmeiras
+2025-07-27,Flamengo,Atlético-MG,1 - 0,FT,Brazilian Serie A,2025-26,1,0,False,0,1,Loss,2025,"Sun, Jul 27-2025",3.0,Flamengo
+2025-08-03,Atlético-MG,Red Bull Bragantino,2 - 1,FT,Brazilian Serie A,2025-26,2,1,True,2,1,Win,2025,"Sun, Aug 3-2025",3.0,Red Bull Bragantino
+2025-08-10,Vasco da Gama,Atlético-MG,1 - 1,FT,Brazilian Serie A,2025-26,1,1,False,1,1,Draw,2025,"Sun, Aug 10-2025",4.0,Vasco da Gama
+2025-08-17,Atlético-MG,Grêmio,1 - 3,FT,Brazilian Serie A,2025-26,1,3,True,1,3,Loss,2025,"Sun, Aug 17-2025",3.0,Grêmio
+2025-08-24,São Paulo,Atlético-MG,2 - 0,FT,Brazilian Serie A,2025-26,2,0,False,0,2,Loss,2025,"Sun, Aug 24-2025",3.0,São Paulo
+2025-08-31,Vitória,Atlético-MG,1 - 0,FT,Brazilian Serie A,2025-26,1,0,False,0,1,Loss,2025,"Sun, Aug 31-2025",4.0,Vitória
+2025-09-14,Atlético-MG,Santos,1 - 1,FT,Brazilian Serie A,2025-26,1,1,True,1,1,Draw,2025,"Sun, Sep 14-2025",3.0,Santos
+2025-09-20,Botafogo,Atlético-MG,1 - 0,FT,Brazilian Serie A,2025-26,1,0,False,0,1,Loss,2025,"Sat, Sep 20-2025",3.0,Botafogo
+2025-09-27,Atlético-MG,Mirassol,1 - 0,FT,Brazilian Serie A,2025-26,1,0,True,1,0,Win,2025,"Sat, Sep 27-2025",3.0,Mirassol
+2025-09-30,Atlético-MG,Juventude,0 - 0,FT,Brazilian Serie A,2025-26,0,0,True,0,0,Draw,2025,"Tue, Sep 30-2025",3.0,Juventude
+2025-10-04,Fluminense,Atlético-MG,3 - 0,FT,Brazilian Serie A,2025-26,3,0,False,0,3,Loss,2025,"Sat, Oct 4-2025",4.0,Fluminense
+2025-10-08,Atlético-MG,Sport,3 - 1,FT,Brazilian Serie A,2025-26,3,1,True,3,1,Win,2025,"Wed, Oct 8-2025",4.0,Sport
+2025-10-15,Atlético-MG,Cruzeiro,1 - 1,FT,Brazilian Serie A,2025-26,1,1,True,1,1,Draw,2025,"Wed, Oct 15-2025",7.0,Cruzeiro
+2025-10-18,Corinthians,Atlético-MG,1 - 0,FT,Brazilian Serie A,2025-26,1,0,False,0,1,Loss,2025,"Sat, Oct 18-2025",3.0,Corinthians
+2025-10-25,Atlético-MG,Ceará,1 - 0,FT,Brazilian Serie A,2025-26,1,0,True,1,0,Win,2025,"Sat, Oct 25-2025",4.0,Ceará
+2025-11-02,Internacional,Atlético-MG,0 - 0,FT,Brazilian Serie A,2025-26,0,0,False,0,0,Draw,2025,"Sun, Nov 2-2025",5.0,Internacional
+2025-11-05,Atlético-MG,Bahia,3 - 0,FT,Brazilian Serie A,2025-26,3,0,True,3,0,Win,2025,"Wed, Nov 5-2025",3.0,Bahia
+2025-11-08,Sport,Atlético-MG,2 - 4,FT,Brazilian Serie A,2025-26,2,4,False,4,2,Win,2025,"Sat, Nov 8-2025",3.0,Sport
+2025-11-12,Atlético-MG,Fortaleza,3 - 3,FT,Brazilian Serie A,2025-26,3,3,True,3,3,Draw,2025,"Wed, Nov 12-2025",4.0,Fortaleza
+2025-11-16,Red Bull Bragantino,Atlético-MG,2 - 0,FT,Brazilian Serie A,2025-26,2,0,False,0,2,Loss,2025,"Sun, Nov 16-2025",4.0,Red Bull Bragantino
+2025-11-25,Atlético-MG,Flamengo,1 - 1,FT,Brazilian Serie A,2025-26,1,1,True,1,1,Draw,2025,"Tue, Nov 25-2025",3.0,Flamengo
+2025-11-30,Fortaleza,Atlético-MG,1 - 0,FT,Brazilian Serie A,2025-26,1,0,False,0,1,Loss,2025,"Sun, Nov 30-2025",5.0,Fortaleza
+2025-12-03,Atlético-MG,Palmeiras,0 - 3,FT,Brazilian Serie A,2025-26,0,3,True,0,3,Loss,2025,"Wed, Dec 3-2025",3.0,Palmeiras
+2025-12-07,Atlético-MG,Vasco da Gama,5 - 0,FT,Brazilian Serie A,2025-26,5,0,True,5,0,Win,2025,"Sun, Dec 7-2025",4.0,Vasco da Gama
